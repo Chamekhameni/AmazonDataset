@@ -17,13 +17,13 @@ This dataset is part of a thesis conducted at the MIRACL research laboratory, fo
 - The annotated dataset includes 6574 reviews with "very positive" sentiments, 1647 reviews with "positive" sentiments, 779 reviews with "very negative" sentiments, 386 reviews with "negative" sentiments, and 795 reviews with "neutral" sentiments.
   
 # Statictics
-The aspect 'disease' contains 4.5% of reviews are neutral, 3.6% of reviews are negative, 15.1% of reviews are positive, 8.1% of reviews are very negative, and 68.7% of reviews are very positive.
-The aspect 'effectiveness' contains 8.3% of reviews are neutral, 2.7% of reviews are negative, 20.7% of reviews are positive, 5.6% of reviews are very negative, and 62.7% of reviews are very positive.
-The aspect 'overall' contains 8.1% of reviews are neutral, 3.5% of reviews are negative, 14.9% of reviews are positive, 7.6% of reviews are very negative, and 65.9% of reviews are very positive.
-The aspect 'package' contains 20.9% of reviews are neutral, 11.6% of reviews are negative, 11.6% of reviews are positive, 11.6% of reviews are very negative, and 44.2% of reviews are very positive.
-The aspect 'pest' contains 8.0% of reviews are neutral, 4.3% of reviews are negative, 11.9% of reviews are positive, 8.4% of reviews are very negative, and 67.3% of reviews are very positive.
-The aspect 'price' contains 5.4% of reviews are neutral, 4.7% of reviews are negative, 14.7% of reviews are positive, 6.6% of reviews are very negative, and 68.6% of reviews are very positive.
-The aspect 'safety' contains 2.8% of reviews are neutral, 2.8% of reviews are negative, 9.8% of reviews are positive, 11.2% of reviews are very negative, and 73.4% of reviews are very positive.
-The aspect 'shipping' contains 8.6% of reviews are neutral, 4.3% of reviews are negative, 15.1% of reviews are positive, 7.5% of reviews are very negative, and 64.5% of reviews are very positive.
-The aspect 'toxicity' contains 13.2% of reviews are neutral, 4.4% of reviews are negative, 16.7% of reviews are positive, 13.7% of reviews are very negative, and 52.0% of reviews are very positive.
-The aspect 'usage' contains 7.6% of reviews are neutral, 4.2% of reviews are negative, 15.7% of reviews are positive, 8.1% of reviews are very negative, and 64.4% of reviews are very positive.
+- The aspect 'disease' contains 4.5% of reviews are neutral, 3.6% of reviews are negative, 15.1% of reviews are positive, 8.1% of reviews are very negative, and 68.7% of reviews are very positive.
+- The aspect 'effectiveness' contains 8.3% of reviews are neutral, 2.7% of reviews are negative, 20.7% of reviews are positive, 5.6% of reviews are very negative, and 62.7% of reviews are very positive.
+- The aspect 'overall' contains 8.1% of reviews are neutral, 3.5% of reviews are negative, 14.9% of reviews are positive, 7.6% of reviews are very negative, and 65.9% of reviews are very positive.
+- The aspect 'package' contains 20.9% of reviews are neutral, 11.6% of reviews are negative, 11.6% of reviews are positive, 11.6% of reviews are very negative, and 44.2% of reviews are very positive.
+- The aspect 'pest' contains 8.0% of reviews are neutral, 4.3% of reviews are negative, 11.9% of reviews are positive, 8.4% of reviews are very negative, and 67.3% of reviews are very positive.
+- The aspect 'price' contains 5.4% of reviews are neutral, 4.7% of reviews are negative, 14.7% of reviews are positive, 6.6% of reviews are very negative, and 68.6% of reviews are very positive.
+- The aspect 'safety' contains 2.8% of reviews are neutral, 2.8% of reviews are negative, 9.8% of reviews are positive, 11.2% of reviews are very negative, and 73.4% of reviews are very positive.
+- The aspect 'shipping' contains 8.6% of reviews are neutral, 4.3% of reviews are negative, 15.1% of reviews are positive, 7.5% of reviews are very negative, and 64.5% of reviews are very positive.
+- The aspect 'toxicity' contains 13.2% of reviews are neutral, 4.4% of reviews are negative, 16.7% of reviews are positive, 13.7% of reviews are very negative, and 52.0% of reviews are very positive.
+- The aspect 'usage' contains 7.6% of reviews are neutral, 4.2% of reviews are negative, 15.7% of reviews are positive, 8.1% of reviews are very negative, and 64.4% of reviews are very positive.
