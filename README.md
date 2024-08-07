@@ -10,6 +10,8 @@ This dataset is part of a thesis conducted at the MIRACL research laboratory, fo
 - The data gathered is a CSV of 10,181 reviews on anti-parasitic products from Amazon.
 - The reviews are categorized by pest and disease types: "Insects: 3824 reviews", "Fungi: 2421 reviews", "Herbs: 3296 reviews", "Bacteria: 133 reviews", "Nematodes: 178 reviews", and "Viruses: 323 reviews".
 - The Amazon dataset is represented by the following columns: "class_id", "treatment_type", "product_id", "review_author_name", "review_date", "review_content", "review_rating", and "review_is_verified".
+  
+# Annotation  
 - Based on the "review_rating" column, which represents ratings in stars, each star rating was converted into a specific sentiment (e.g., "5 étoiles" to "very positive").
 - The annotation schema categorized the number of star ratings into sentiments as follows: ( 1 = "very negative", 2 = "negative", 3 = "neutral", 4 = "positive", and 5 = "very positive". )
 - The annotated dataset includes 6574 reviews with "very positive" sentiments, 1647 reviews with "positive" sentiments, 779 reviews with "very negative" sentiments, 386 reviews with "negative" sentiments, and 795 reviews with "neutral" sentiments.
